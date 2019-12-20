@@ -1,5 +1,5 @@
 # mern-auth
-
+![Final App](https://github.com/Fmpratomo/mern-auth/blob/master/Documents/Mern-Auth.gif)
 MERN app with authentication using passport and JWTs.
 
 This project uses the following technologies:
